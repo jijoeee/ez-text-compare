@@ -1,0 +1,6 @@
+# Runtime dependencies. Versions are pinned to the ones this release was tested with.
+# openpyxl writes the Excel report; everything else in the comparison is Python's own difflib.
+customtkinter==5.2.2
+tkinterdnd2==0.6.3
+openpyxl==3.1.5
+Pillow==12.1.1
